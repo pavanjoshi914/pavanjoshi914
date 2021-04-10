@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/pavan-joshi-177873192/"> Hello..., It's Pavan Joshi here! </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <a href="https://www.linkedin.com/in/pavan-joshi-177873192/"> Hello, Folks! I'm Pavan Joshi</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://www.linkedin.com/in/pavan-joshi-177873192/">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

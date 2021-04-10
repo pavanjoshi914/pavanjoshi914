@@ -1,5 +1,4 @@
 # <a href="https://www.linkedin.com/in/pavan-joshi-177873192/"> Hello..., It's Pavan Joshi here! </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <a href="https://www.linkedin.com/in/pavan-joshi-177873192/">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,9 +12,15 @@
 <br/>
 <br/>
 
-Aspiring Computer Engineer | Contributer at CircuitVerse | Data Science | Web Development | Android Development | Competitive Programming
-# Technology and Tools
-## Programming Languages
+Aspiring Computer Engineer | Contributor at CircuitVerse | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+## About :sunglasses:
+B.tech 2nd year Computer Engineering student. Currently working as a Contributor in Open Source organization CircuitVerse. Passionate about Software Development, AI and open source. Also, have some experience in Android Development. 
+
+
+
+# Technology and Tools 🔧
+## Programming Languages 🔥
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -26,8 +31,8 @@ Aspiring Computer Engineer | Contributer at CircuitVerse | Data Science | Web De
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>
-## Frameworks
+  
+## Frameworks 🖼️
 <p>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -39,10 +44,12 @@ Aspiring Computer Engineer | Contributer at CircuitVerse | Data Science | Web De
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  </p>
  
- 
+ ## Databases
+ <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  
 <a href="https://github.com/pavanjoshi914">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanjoshi914&theme=buefy&show_icons=true" />
@@ -61,18 +68,5 @@ Aspiring Computer Engineer | Contributer at CircuitVerse | Data Science | Web De
  [![Linkedin Badge](https://img.shields.io/badge/-@Pavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-joshi-177873192/)](https://www.linkedin.com/in/pavan-joshi-177873192/) [![Gmail Badge](https://img.shields.io/badge/-pavanjoshi2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjoshi2050@gmail.com)](mailto:) [![Instagram Badge](https://img.shields.io/badge/-@Pavan-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/__pavan.exe__/)](https://www.instagram.com/__pavan.exe__/)
 
 
-<!--
-**pavanjoshi914/pavanjoshi914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 

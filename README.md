@@ -47,14 +47,16 @@ B.tech 2nd year Computer Engineering student. Currently working as a Contributor
  </p>
  
  ## Databases
+ <p>
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
- 
+ <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+ </p>
 <a href="https://github.com/pavanjoshi914">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanjoshi914&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanjoshi914&theme=buefy&layout=compact" />
 </a>
+
 
 <br/>
 

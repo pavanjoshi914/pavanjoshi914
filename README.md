@@ -5,6 +5,9 @@
 <a href="https://github.com/pavanjoshi914">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://pavanjoshi914.github.io/Blog/">
+  <img align="left" alt="Pavan's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+</a>
 <a href="https://www.instagram.com/__pavan.exe__/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -12,7 +15,7 @@
 <br/>
 <br/>
 
-Aspiring Computer Engineer | Student software developer at CircuitVerse |GSoC'2021 at CircuitVerse | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+Aspiring Computer Engineer | Student software developer at CircuitVerse | GSoC'2021 at CircuitVerse | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## About :sunglasses:
 B.tech 2nd year Computer Engineering student. Currently working as a Contributor in Open Source organization CircuitVerse. Passionate about Software Development, AI and open source. Also, have some experience in Android Development. 
@@ -67,7 +70,7 @@ B.tech 2nd year Computer Engineering student. Currently working as a Contributor
 
  ##  Contact Me :speech_balloon:
 
- [![Linkedin Badge](https://img.shields.io/badge/-@Pavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-joshi-177873192/)](https://www.linkedin.com/in/pavan-joshi-177873192/) [![Gmail Badge](https://img.shields.io/badge/-pavanjoshi2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjoshi2050@gmail.com)](mailto:) [![Instagram Badge](https://img.shields.io/badge/-@Pavan-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/__pavan.exe__/)](https://www.instagram.com/__pavan.exe__/)
+ [![Linkedin Badge](https://img.shields.io/badge/-@Pavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-joshi-177873192/)](https://www.linkedin.com/in/pavan-joshi-177873192/) [![Gmail Badge](https://img.shields.io/badge/-pavanjoshi2050@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavanjoshi2050@gmail.com)](mailto:) [![Instagram Badge](https://img.shields.io/badge/-@Pavan-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/__pavan.exe__/)](https://www.instagram.com/__pavan.exe__/) <a href="https://pavanjoshi914.github.io/Blog/"><img alt="Website" src="https://img.shields.io/badge/pavanjoshi914.github.io-red?style=flat-square&logo=google-chrome"></a>
 
 
 

@@ -61,6 +61,8 @@ B.tech 2nd year Computer Engineering student. Currently working as a Contributor
 </a>
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanjoshi914.pavanjoshi914)
+
 <br/>
 
 

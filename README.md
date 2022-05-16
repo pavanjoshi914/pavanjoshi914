@@ -18,7 +18,7 @@
 Aspiring Computer Engineer | Developer and core team member at CircuitVerse | GSoC'2021 at CircuitVerse | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## About :sunglasses:
-B.tech 2nd year Computer Engineering student. Currently working as a Contributor in Open Source organization CircuitVerse. Passionate about Software Development, AI and open source. Also, have some experience in Android Development. 
+B.Tech 3rd year Computer Engineering student. Currently working as a Contributor in few of the Open Source organizations such as @CircuitVerse @Alby. Passionate about Software Development, AI and open source. Also, have some experience in Android Development. Got Selected in some of the global events such as Google Summer of Code and Summer of Bitcoin. In free time working on self startup oriented projects.
 
 
 

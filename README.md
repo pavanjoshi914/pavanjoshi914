@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-Aspiring Computer Engineer | Developer and core team member at CircuitVerse | Google Summer of Code'2021 at CircuitVerse | Summer of Bitcoin'2022 @Alby | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+Aspiring Computer Engineer | Developer and core team member at CircuitVerse | Google Summer of Code'2021 at CircuitVerse | Google Summer of Code'2022 Mentor @CircuitVerse | Summer of Bitcoin'2022 @Alby | Data Science | Web Development | Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## About :sunglasses:
 B.Tech 3rd year Computer Engineering student. Currently working as a Contributor in few of the Open Source organizations such as @CircuitVerse @Alby. 

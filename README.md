@@ -59,11 +59,9 @@ Got Selected in some of the global events such as Google Summer of Code and Summ
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  </p>
-<a href="https://github.com/pavanjoshi914">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanjoshi914&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanjoshi914&theme=buefy&layout=compact" />
-</a>
 
+  [![Pavans's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanjoshi914&theme=buefy&show_icons=true")](https://github.com/pavanjoshi914)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanjoshi914&langs_count=8&theme=buefy&layout=compact)](https://github.com/pavanjoshi914)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanjoshi914.pavanjoshi914)
 

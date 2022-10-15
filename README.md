@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/__pavan.exe__/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://medium.com/@pavan.techie">
+  <img align="left" alt="Pavan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 <br/>
 <br/>

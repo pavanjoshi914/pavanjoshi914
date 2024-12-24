@@ -64,7 +64,7 @@ Got Selected in some of the global events such as Google Summer of Code and Summ
  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
  </p>
 
-  [![Pavans's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanjoshi914&theme=buefy&show_icons=true")](https://github.com/pavanjoshi914)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pavanjoshi914?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanjoshi914&langs_count=8&theme=buefy&layout=compact)](https://github.com/pavanjoshi914)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanjoshi914.pavanjoshi914)
